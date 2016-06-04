@@ -1,0 +1,12 @@
+I. Khai niem ma hoa (Encode) - giai ma (Decode)
+	1. Ma hoa & giai ma là nhung quy ước chung cũng có thể phổ biến cũng có thể bí mật tuy thuoc vao muc dich. (Vi du)
+	2. Thông tin đã được mã hoá rồi thì khi dũng cũng phải giải mã nó và ta chỉ giải được khi chấp nhận, thực hiện theo đúng những quy ước, điều kiện có liên quan chặt chẽ tới mã hoá.
+	3. Trong mạch số, tất nhiên thông tin cũng phải được mã hoá hay giải mã ở dạng số
+II. Gioi thieu mach Encoder
+
+III. Vi du
+	1. Mã hoá 8 duong sang 4 duong
+	2. Ma hoa 10 duong sang 4 duong
+IV. Mach ma hoa uu tien (priority encoder)
+	1. Problem
+	2. Solve
